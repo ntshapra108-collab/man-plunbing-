@@ -1,0 +1,6 @@
+{
+  "name": "Mannan Plumber Work",
+  "description": "Premium 24/7 professional plumbing services in Malviya Nagar and nearby areas of New Delhi. Call now for emergency plumbing, leaks, repairs, and bathroom fittings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
